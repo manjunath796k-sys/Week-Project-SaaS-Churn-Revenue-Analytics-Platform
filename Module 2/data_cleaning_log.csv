@@ -1,0 +1,18 @@
+Table,Issue,Rows affected,Action,Why
+customers,Missing Industry,10,"Fill with ""Unknown""",Industry cannot be reliably inferred from the available fields; Unknown preserves the customer record without inventing a category.
+customers,Missing EmployeeCount,5,Fill using Industry median; fallback to overall median when no industry-level value exists,Employee count is numeric and industry is a meaningful grouping; median is less sensitive to skew than mean.
+customers,Missing AcquisitionChannel,6,"Fill with ""Unknown""",The source does not provide enough evidence to reconstruct the channel.
+customers,Exact duplicate rows,5,Remove exact duplicates,Identical customer records add no information and can duplicate downstream joins.
+subscriptions,Missing Seats,4,Fill using PlanName median; fallback to overall median,"Seat counts differ by plan, so plan-level median preserves the plan's typical size better than a blanket zero or mean."
+subscriptions,Missing MRR,7,Fill using PlanName + BillingTerm median; fallback to PlanName median and then overall median,MRR is strongly tied to plan and billing structure; grouped medians avoid assuming one value fits every plan.
+subscriptions,Missing EndDate (expected lifecycle state),318,Retain as NULL for Active/Paused subscriptions,An active or paused subscription has no completed end date; replacing it would create false churn/end dates.
+subscriptions,Exact duplicate rows,6,Remove exact duplicates,Duplicate subscription records can double-count recurring revenue.
+usage,Missing ActiveUsers,15,Fill using CustomerID median; fallback to overall median,"Usage is customer-specific, so the customer's historical median is a more defensible estimate than a global value."
+usage,Missing SessionMinutes,25,Fill using CustomerID median; fallback to overall median,Session duration is behavior-specific; customer-level history is the most relevant available reference.
+usage,Exact duplicate rows,18,Remove exact duplicates,Duplicate usage events would inflate engagement metrics.
+tickets,Missing ResolutionHours,14,Fill using Category + Priority median; fallback to Category median and overall median,"Resolution time depends on ticket type and urgency, so grouped medians preserve those differences."
+tickets,Missing SatisfactionScore,22,Fill using Category median; fallback to overall median,Satisfaction can vary by ticket type; category-level median avoids assuming every support category has the same score.
+tickets,Exact duplicate rows,9,Remove exact duplicates,Duplicate tickets would overstate ticket volume and support workload.
+subscriptions,CustomerID not present in customers,5,"Remove orphan subscriptions for customer IDs: ['C9000', 'C9001', 'C9002', 'C9003', 'C9004']",There is no customer master record to which these subscriptions can be reliably linked.
+usage,Referential mismatch (CustomerID or SubscriptionID),66,Remove orphan usage rows,Usage without a valid customer/subscription cannot be safely attributed.
+tickets,CustomerID not present in customers,21,Remove orphan ticket rows,Tickets without a valid customer cannot be reliably associated with an account.
