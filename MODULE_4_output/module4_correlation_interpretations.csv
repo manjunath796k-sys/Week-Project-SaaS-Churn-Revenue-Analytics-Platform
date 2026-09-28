@@ -1,0 +1,46 @@
+Variable1,Variable2,Correlation,PlainEnglish
+TotalMRR,TotalSeats,0.13442982240614734,There is a very weak positive linear relationship between TotalMRR and TotalSeats; correlation is not proof of causation.
+TotalMRR,TotalLogins,0.03800648822729268,There is a very weak positive linear relationship between TotalMRR and TotalLogins; correlation is not proof of causation.
+TotalMRR,TotalActiveUsers,0.04673620853793384,There is a very weak positive linear relationship between TotalMRR and TotalActiveUsers; correlation is not proof of causation.
+TotalMRR,TotalAPICalls,-0.05966947067408341,There is a very weak negative linear relationship between TotalMRR and TotalAPICalls; correlation is not proof of causation.
+TotalMRR,TotalSessionMinutes,-0.0036672240162469467,There is a very weak negative linear relationship between TotalMRR and TotalSessionMinutes; correlation is not proof of causation.
+TotalMRR,TicketCount,0.05640652411662466,There is a very weak positive linear relationship between TotalMRR and TicketCount; correlation is not proof of causation.
+TotalMRR,AvgResolutionHours,0.03242039510171357,There is a very weak positive linear relationship between TotalMRR and AvgResolutionHours; correlation is not proof of causation.
+TotalMRR,AvgSatisfactionScore,-0.0020040935044376854,There is a very weak negative linear relationship between TotalMRR and AvgSatisfactionScore; correlation is not proof of causation.
+TotalMRR,TenureMonths,-0.02934911617650217,There is a very weak negative linear relationship between TotalMRR and TenureMonths; correlation is not proof of causation.
+TotalSeats,TotalLogins,-0.02703815743770963,There is a very weak negative linear relationship between TotalSeats and TotalLogins; correlation is not proof of causation.
+TotalSeats,TotalActiveUsers,-0.024059080692494055,There is a very weak negative linear relationship between TotalSeats and TotalActiveUsers; correlation is not proof of causation.
+TotalSeats,TotalAPICalls,-0.003165892524731009,There is a very weak negative linear relationship between TotalSeats and TotalAPICalls; correlation is not proof of causation.
+TotalSeats,TotalSessionMinutes,-0.026021914412579276,There is a very weak negative linear relationship between TotalSeats and TotalSessionMinutes; correlation is not proof of causation.
+TotalSeats,TicketCount,0.0034966567642317624,There is a very weak positive linear relationship between TotalSeats and TicketCount; correlation is not proof of causation.
+TotalSeats,AvgResolutionHours,0.09186767119636763,There is a very weak positive linear relationship between TotalSeats and AvgResolutionHours; correlation is not proof of causation.
+TotalSeats,AvgSatisfactionScore,-0.03368087147894992,There is a very weak negative linear relationship between TotalSeats and AvgSatisfactionScore; correlation is not proof of causation.
+TotalSeats,TenureMonths,-0.0119596103974012,There is a very weak negative linear relationship between TotalSeats and TenureMonths; correlation is not proof of causation.
+TotalLogins,TotalActiveUsers,0.9919990239332335,There is a very strong positive linear relationship between TotalLogins and TotalActiveUsers; correlation is not proof of causation.
+TotalLogins,TotalAPICalls,0.6937642810806433,There is a strong positive linear relationship between TotalLogins and TotalAPICalls; correlation is not proof of causation.
+TotalLogins,TotalSessionMinutes,0.7458766555827011,There is a strong positive linear relationship between TotalLogins and TotalSessionMinutes; correlation is not proof of causation.
+TotalLogins,TicketCount,0.08401250405674146,There is a very weak positive linear relationship between TotalLogins and TicketCount; correlation is not proof of causation.
+TotalLogins,AvgResolutionHours,-0.044952581244104055,There is a very weak negative linear relationship between TotalLogins and AvgResolutionHours; correlation is not proof of causation.
+TotalLogins,AvgSatisfactionScore,0.08735270250269139,There is a very weak positive linear relationship between TotalLogins and AvgSatisfactionScore; correlation is not proof of causation.
+TotalLogins,TenureMonths,0.6351906217810303,There is a strong positive linear relationship between TotalLogins and TenureMonths; correlation is not proof of causation.
+TotalActiveUsers,TotalAPICalls,0.6751333375922363,There is a strong positive linear relationship between TotalActiveUsers and TotalAPICalls; correlation is not proof of causation.
+TotalActiveUsers,TotalSessionMinutes,0.7220654697425525,There is a strong positive linear relationship between TotalActiveUsers and TotalSessionMinutes; correlation is not proof of causation.
+TotalActiveUsers,TicketCount,0.08112074563515723,There is a very weak positive linear relationship between TotalActiveUsers and TicketCount; correlation is not proof of causation.
+TotalActiveUsers,AvgResolutionHours,-0.04063146137197167,There is a very weak negative linear relationship between TotalActiveUsers and AvgResolutionHours; correlation is not proof of causation.
+TotalActiveUsers,AvgSatisfactionScore,0.1023100336659647,There is a very weak positive linear relationship between TotalActiveUsers and AvgSatisfactionScore; correlation is not proof of causation.
+TotalActiveUsers,TenureMonths,0.6086343492137422,There is a strong positive linear relationship between TotalActiveUsers and TenureMonths; correlation is not proof of causation.
+TotalAPICalls,TotalSessionMinutes,0.8976788250920545,There is a very strong positive linear relationship between TotalAPICalls and TotalSessionMinutes; correlation is not proof of causation.
+TotalAPICalls,TicketCount,0.10666930701571833,There is a very weak positive linear relationship between TotalAPICalls and TicketCount; correlation is not proof of causation.
+TotalAPICalls,AvgResolutionHours,-0.008613437673608958,There is a very weak negative linear relationship between TotalAPICalls and AvgResolutionHours; correlation is not proof of causation.
+TotalAPICalls,AvgSatisfactionScore,0.011684894493673242,There is a very weak positive linear relationship between TotalAPICalls and AvgSatisfactionScore; correlation is not proof of causation.
+TotalAPICalls,TenureMonths,0.7629773791739423,There is a strong positive linear relationship between TotalAPICalls and TenureMonths; correlation is not proof of causation.
+TotalSessionMinutes,TicketCount,0.0629477156727222,There is a very weak positive linear relationship between TotalSessionMinutes and TicketCount; correlation is not proof of causation.
+TotalSessionMinutes,AvgResolutionHours,-0.025818494422713462,There is a very weak negative linear relationship between TotalSessionMinutes and AvgResolutionHours; correlation is not proof of causation.
+TotalSessionMinutes,AvgSatisfactionScore,0.017586067188928772,There is a very weak positive linear relationship between TotalSessionMinutes and AvgSatisfactionScore; correlation is not proof of causation.
+TotalSessionMinutes,TenureMonths,0.8293955631553859,There is a very strong positive linear relationship between TotalSessionMinutes and TenureMonths; correlation is not proof of causation.
+TicketCount,AvgResolutionHours,0.1359582840308011,There is a very weak positive linear relationship between TicketCount and AvgResolutionHours; correlation is not proof of causation.
+TicketCount,AvgSatisfactionScore,0.18750776240193318,There is a very weak positive linear relationship between TicketCount and AvgSatisfactionScore; correlation is not proof of causation.
+TicketCount,TenureMonths,0.07083607757344569,There is a very weak positive linear relationship between TicketCount and TenureMonths; correlation is not proof of causation.
+AvgResolutionHours,AvgSatisfactionScore,-0.12951862596434488,There is a very weak negative linear relationship between AvgResolutionHours and AvgSatisfactionScore; correlation is not proof of causation.
+AvgResolutionHours,TenureMonths,-0.037703901229222625,There is a very weak negative linear relationship between AvgResolutionHours and TenureMonths; correlation is not proof of causation.
+AvgSatisfactionScore,TenureMonths,0.02454311851578249,There is a very weak positive linear relationship between AvgSatisfactionScore and TenureMonths; correlation is not proof of causation.

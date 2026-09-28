@@ -1,0 +1,421 @@
+CustomerID,ClusterID,SegmentName,RetentionRecommendation
+C1001,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1002,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1003,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1004,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1005,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1006,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1007,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1008,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1009,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1010,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1011,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1012,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1013,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1014,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1015,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1016,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1017,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1018,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1019,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1020,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1021,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1022,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1023,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1024,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1025,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1026,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1027,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1028,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1029,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1030,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1031,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1032,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1033,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1034,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1035,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1036,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1037,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1038,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1039,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1040,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1041,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1042,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1043,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1044,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1045,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1046,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1047,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1048,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1049,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1050,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1051,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1052,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1053,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1054,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1055,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1056,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1057,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1058,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1059,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1060,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1061,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1062,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1063,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1064,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1065,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1066,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1067,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1068,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1069,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1070,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1071,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1072,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1073,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1074,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1075,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1076,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1077,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1078,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1079,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1080,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1081,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1082,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1083,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1084,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1085,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1086,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1087,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1088,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1089,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1090,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1091,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1092,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1093,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1094,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1095,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1096,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1097,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1098,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1099,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1100,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1101,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1102,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1103,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1104,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1105,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1106,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1107,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1108,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1109,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1110,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1111,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1112,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1113,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1114,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1115,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1116,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1117,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1118,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1119,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1120,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1121,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1122,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1123,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1124,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1125,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1126,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1127,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1128,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1129,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1130,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1131,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1132,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1133,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1134,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1135,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1136,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1137,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1138,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1139,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1140,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1141,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1142,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1143,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1144,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1145,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1146,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1147,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1148,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1149,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1150,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1151,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1152,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1153,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1154,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1155,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1156,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1157,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1158,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1159,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1160,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1161,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1162,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1163,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1164,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1165,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1166,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1167,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1168,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1169,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1170,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1171,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1172,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1173,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1174,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1175,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1176,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1177,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1178,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1179,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1180,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1181,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1182,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1183,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1184,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1185,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1186,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1187,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1188,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1189,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1190,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1191,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1192,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1193,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1194,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1195,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1196,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1197,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1198,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1199,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1200,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1201,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1202,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1203,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1204,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1205,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1206,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1207,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1208,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1209,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1210,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1211,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1212,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1213,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1214,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1215,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1216,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1217,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1218,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1219,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1220,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1221,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1222,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1223,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1224,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1225,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1226,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1227,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1228,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1229,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1230,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1231,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1232,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1233,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1234,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1235,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1236,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1237,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1238,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1239,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1240,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1241,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1242,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1243,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1244,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1245,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1246,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1247,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1248,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1249,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1250,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1251,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1252,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1253,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1254,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1255,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1256,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1257,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1258,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1259,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1260,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1261,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1262,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1263,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1264,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1265,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1266,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1267,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1268,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1269,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1270,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1271,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1272,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1273,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1274,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1275,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1276,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1277,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1278,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1279,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1280,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1281,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1282,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1283,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1284,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1285,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1286,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1287,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1288,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1289,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1290,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1291,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1292,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1293,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1294,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1295,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1296,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1297,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1298,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1299,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1300,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1301,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1302,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1303,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1304,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1305,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1306,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1307,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1308,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1309,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1310,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1311,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1312,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1313,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1314,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1315,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1316,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1317,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1318,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1319,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1320,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1321,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1322,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1323,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1324,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1325,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1326,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1327,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1328,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1329,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1330,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1331,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1332,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1333,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1334,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1335,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1336,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1337,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1338,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1339,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1340,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1341,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1342,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1343,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1344,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1345,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1346,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1347,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1348,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1349,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1350,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1351,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1352,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1353,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1354,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1355,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1356,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1357,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1358,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1359,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1360,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1361,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1362,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1363,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1364,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1365,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1366,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1367,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1368,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1369,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1370,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1371,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1372,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1373,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1374,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1375,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1376,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1377,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1378,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1379,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1380,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1381,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1382,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1383,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1384,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1385,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1386,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1387,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1388,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1389,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1390,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1391,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1392,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1393,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1394,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1395,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1396,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1397,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1398,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1399,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1400,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1401,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1402,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1403,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1404,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1405,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1406,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1407,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1408,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1409,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1410,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1411,0,Steady Mid-Market Accounts,Use lightweight lifecycle campaigns to increase feature adoption and monitor early churn signals.
+C1412,4,High-Value Expansion Accounts,"Protect adoption with executive check-ins, usage reviews and expansion opportunities."
+C1413,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1414,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1415,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1416,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1417,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."
+C1418,3,Support-Frustrated Accounts,"Prioritize support recovery, root-cause resolution and proactive service follow-up."
+C1419,1,Highly Engaged Retained Accounts,Maintain adoption momentum with advanced-feature education and advocacy programs.
+C1420,2,Low-Usage At-Risk Accounts,"Trigger product-adoption outreach, usage alerts and targeted onboarding before renewal."

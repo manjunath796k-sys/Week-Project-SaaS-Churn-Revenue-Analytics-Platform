@@ -1,0 +1,8 @@
+Chart,OneLineInsight
+Churn trend over time,Peak monthly churn was 10 subscriptions in June 2024.
+Retention curve,Overall cohort retention is 85.1% at month 12.
+Churn by segment,The Enterprise plan has a 34.8% customer churn rate (24 of 69).
+Usage distribution,The median customer records 9.0 average monthly logins.
+Usage vs churn relationship,"Retained customers average 10.9 logins/month versus 7.3 for churned customers, a 3.6-login gap."
+Ticket satisfaction impact,"Retained customers average satisfaction 5.42 versus 5.31 among churned customers, a 0.11-point gap."
+Correlation heatmap,"The strongest linear relationship is between TotalLogins and TotalActiveUsers, with Pearson r=0.99."

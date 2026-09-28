@@ -1,0 +1,2 @@
+ActiveCustomerCount,HighestRiskGroupDefinition,HighestRiskCustomerCount,HighestRiskMRR,TotalActivePopulationMRR,HighestRiskMRRSharePct,ScoringMethod
+300,Top 20% of active/paused customers by heuristic risk score (60 customers),60,24156.72,180821.68,13.36,30% low monthly logins + 15% low active users + 15% low session minutes + 15% low satisfaction + 10% high tickets/month + 15% declining usage

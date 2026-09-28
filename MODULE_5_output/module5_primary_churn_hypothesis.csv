@@ -1,0 +1,2 @@
+Metric,ChurnedN,RetainedN,ChurnedMean,RetainedMean,MeanDifference_ChurnedMinusRetained,Welch_t,Welch_p_value,Welch_df,MannWhitney_U,MannWhitney_p_value,Cohens_d,Interpretation
+AvgMonthlyLogins,119,287,7.327455233682957,11.397167600250853,-4.069712366567896,-7.964622317987579,2.97780386452439e-14,317.85284299332824,10400.0,5.541339163617214e-10,-0.7455834587491846,Evidence of a difference in group means at alpha=0.05; this does not establish causation.

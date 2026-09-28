@@ -1,0 +1,3 @@
+Decision,Value
+Selected k,5
+Reason,Elbow begins flattening around k=5; k=5 also has the highest silhouette score (0.198) among tested k=2..8.

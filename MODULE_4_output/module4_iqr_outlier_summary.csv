@@ -1,0 +1,6 @@
+Metric,LowerBound,UpperBound,OutlierCount
+TotalMRR,-897.08,1719.88,65
+TotalSeats,-1.0,15.0,9
+TotalLogins,-156.375,348.625,23
+TicketCount,-1.0,7.0,7
+RevenuePerSeat,-138.08375000000004,269.14358333333337,57
